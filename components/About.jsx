@@ -50,7 +50,7 @@ const About = () => {
       <p>
         <span className="italic">When I&apos; m not coding</span>,I do tutions in Programming and Science subjects, enjoy
         Sketching, watching movies,reading and hiking.I am always open to
-        <span className="font-medium">learning new things</span>. I am
+        <span className="font-medium"> learning new things</span>. I am
         currently learning about{" "}
         <span className="font-medium">Photography </span>. I&apos;m
         also learning how to play the guitar.

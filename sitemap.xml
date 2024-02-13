@@ -1,0 +1,2512 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+
+
+<url>
+  <loc>https://vercel.com/login?next=%2Fnasir-hussains-projects%2Fnasir-hussain-portfolio</loc>
+  <lastmod>2024-02-13T10:49:55+00:00</lastmod>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>https://vercel.com/login?next=%2Fdashboard</loc>
+  <lastmod>2024-02-13T10:49:55+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://vercel.com/contact</loc>
+  <lastmod>2024-02-13T10:49:55+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://vercel.com/signup</loc>
+  <lastmod>2024-02-13T10:49:55+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://vercel.com/home</loc>
+  <lastmod>2024-02-13T10:49:55+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://vercel.com/products/dx-platform</loc>
+  <lastmod>2024-02-13T10:49:55+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://vercel.com/solutions/nextjs</loc>
+  <lastmod>2024-02-13T10:49:55+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://vercel.com/products/managed-infrastructure</loc>
+  <lastmod>2024-02-13T10:49:55+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://vercel.com/storage/kv</loc>
+  <lastmod>2024-02-13T10:49:55+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://vercel.com/solutions/turborepo</loc>
+  <lastmod>2024-02-13T10:49:55+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://vercel.com/analytics</loc>
+  <lastmod>2024-02-13T10:49:55+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://vercel.com/enterprise</loc>
+  <lastmod>2024-02-13T10:49:55+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://vercel.com/changelog</loc>
+  <lastmod>2024-02-13T10:49:55+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://vercel.com/docs/rest-api</loc>
+  <lastmod>2024-02-13T10:49:55+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://vercel.com/docs</loc>
+  <lastmod>2024-02-13T10:49:55+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://vercel.com/experts</loc>
+  <lastmod>2024-02-13T10:49:55+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://vercel.com/pricing</loc>
+  <lastmod>2024-02-13T10:49:55+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://vercel.com/guides</loc>
+  <lastmod>2024-02-13T10:49:55+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://vercel.com/customers</loc>
+  <lastmod>2024-02-13T10:49:55+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://vercel.com/help</loc>
+  <lastmod>2024-02-13T10:49:55+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://vercel.com/integrations</loc>
+  <lastmod>2024-02-13T10:49:55+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://vercel.com/templates</loc>
+  <lastmod>2024-02-13T10:49:55+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://vercel.com/about</loc>
+  <lastmod>2024-02-13T10:49:55+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://vercel.com/blog</loc>
+  <lastmod>2024-02-13T10:49:55+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://vercel.com/careers</loc>
+  <lastmod>2024-02-13T10:49:55+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://vercel.com/oss</loc>
+  <lastmod>2024-02-13T10:49:55+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://vercel.com/partners</loc>
+  <lastmod>2024-02-13T10:49:55+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://vercel.com/security</loc>
+  <lastmod>2024-02-13T10:49:55+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://vercel.com/legal/privacy-policy</loc>
+  <lastmod>2024-02-13T10:49:55+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://vercel.com/ai</loc>
+  <lastmod>2024-02-13T10:49:55+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://vercel.com/solutions/composable-ecommerce</loc>
+  <lastmod>2024-02-13T10:49:55+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://vercel.com/solutions/web-apps</loc>
+  <lastmod>2024-02-13T10:49:55+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://vercel.com/resources</loc>
+  <lastmod>2024-02-13T10:49:55+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://vercel.com/login</loc>
+  <lastmod>2024-02-13T10:49:55+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://vercel.com/contact/sales</loc>
+  <lastmod>2024-02-13T10:49:55+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://vercel.com/new</loc>
+  <lastmod>2024-02-13T10:49:55+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://vercel.com/roi</loc>
+  <lastmod>2024-02-13T10:49:55+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://vercel.com/templates/next.js</loc>
+  <lastmod>2024-02-13T10:49:55+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://vercel.com/templates/react</loc>
+  <lastmod>2024-02-13T10:49:55+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://vercel.com/templates/astro</loc>
+  <lastmod>2024-02-13T10:49:55+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://vercel.com/templates/svelte</loc>
+  <lastmod>2024-02-13T10:49:55+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://vercel.com/templates/nuxt</loc>
+  <lastmod>2024-02-13T10:49:55+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://vercel.com/templates/python</loc>
+  <lastmod>2024-02-13T10:49:55+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://vercel.com/contact/sales?mode=enterprise-trial</loc>
+  <lastmod>2024-02-13T10:49:55+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://vercel.com/customers/how-sonos-amplified-their-devex</loc>
+  <lastmod>2024-02-13T10:49:55+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://vercel.com/customers/how-vercel-and-next-js-keep-rippling-on-their-rising-path-to-success</loc>
+  <lastmod>2024-02-13T10:49:55+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://vercel.com/customers/loom-headless-with-nextjs</loc>
+  <lastmod>2024-02-13T10:49:55+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://vercel.com/docs/workflow-collaboration/comments</loc>
+  <lastmod>2024-02-13T10:49:55+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://vercel.com/docs/observability/monitoring</loc>
+  <lastmod>2024-02-13T10:49:55+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://vercel.com/docs/frameworks/nextjs</loc>
+  <lastmod>2024-02-13T10:49:55+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://vercel.com/docs/functions/edge-middleware</loc>
+  <lastmod>2024-02-13T10:49:55+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://vercel.com/docs/incremental-static-regeneration</loc>
+  <lastmod>2024-02-13T10:49:55+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://vercel.com/docs/functions</loc>
+  <lastmod>2024-02-13T10:49:55+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://vercel.com/docs/accounts/team-members-and-roles</loc>
+  <lastmod>2024-02-13T10:49:55+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://vercel.com/contact/sales?utm_campaign=next-solutions</loc>
+  <lastmod>2024-02-13T10:49:55+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://vercel.com/templates/next.js/nextjs-boilerplate</loc>
+  <lastmod>2024-02-13T10:49:55+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://vercel.com/templates/next.js/isr-blog-nextjs-wordpress</loc>
+  <lastmod>2024-02-13T10:49:55+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://vercel.com/templates/next.js/mongodb-starter</loc>
+  <lastmod>2024-02-13T10:49:55+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://vercel.com/templates/next.js/nextjs-commerce</loc>
+  <lastmod>2024-02-13T10:49:55+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://vercel.com/templates/next.js/platforms-starter-kit</loc>
+  <lastmod>2024-02-13T10:49:55+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://vercel.com/docs/frameworks/create-react-app</loc>
+  <lastmod>2024-02-13T10:49:55+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://vercel.com/docs/frameworks/nuxt</loc>
+  <lastmod>2024-02-13T10:49:55+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://vercel.com/docs/frameworks/sveltekit</loc>
+  <lastmod>2024-02-13T10:49:55+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://vercel.com/docs/frameworks/gatsby</loc>
+  <lastmod>2024-02-13T10:49:55+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://vercel.com/docs/frameworks</loc>
+  <lastmod>2024-02-13T10:49:55+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://vercel.com/new/clone?repository-url=https://github.com/vercel/examples/tree/main/edge-functions/cache-control</loc>
+  <lastmod>2024-02-13T10:49:55+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://vercel.com/blog/vercel-storage</loc>
+  <lastmod>2024-02-13T10:49:55+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://vercel.com/storage/postgres</loc>
+  <lastmod>2024-02-13T10:49:55+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://vercel.com/storage/blob</loc>
+  <lastmod>2024-02-13T10:49:55+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://vercel.com/storage/edge-config</loc>
+  <lastmod>2024-02-13T10:49:55+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://vercel.com/docs/storage/vercel-kv</loc>
+  <lastmod>2024-02-13T10:49:55+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://vercel.com/templates/next.js/kv-redis-starter</loc>
+  <lastmod>2024-02-13T10:49:55+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://vercel.com/templates/svelte/kv-redis-sveltekit</loc>
+  <lastmod>2024-02-13T10:49:55+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://vercel.com/templates/nuxt/kv-redis-nuxt</loc>
+  <lastmod>2024-02-13T10:49:55+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://vercel.com/product-tour?thankyou</loc>
+  <lastmod>2024-02-13T10:49:55+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://vercel.com/new/clone?repository-url=https://github.com/vercel/examples/tree/main/solutions/monorepo&amp;project-name=monorepo&amp;repository-name=monorepo&amp;root-directory=apps/app&amp;install-command=pnpm%20install&amp;build-command=cd%20..%2F..%20%26%26%20npx%20turbo%20run%20build%20--filter%3Dapp...&amp;ignore-command=npx%20turbo-ignore</loc>
+  <lastmod>2024-02-13T10:49:55+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://vercel.com/contact/sales?utm_source=vercel.com&amp;utm_medium=referral&amp;utm_campaign=turbo_solutions_page</loc>
+  <lastmod>2024-02-13T10:49:55+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://vercel.com/customers/makeswift</loc>
+  <lastmod>2024-02-13T10:49:55+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://vercel.com/templates/next.js/turborepo-next-basic</loc>
+  <lastmod>2024-02-13T10:49:55+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://vercel.com/templates/svelte/turborepo-sveltekit-starter</loc>
+  <lastmod>2024-02-13T10:49:55+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://vercel.com/templates/remix/turborepo-kitchensink</loc>
+  <lastmod>2024-02-13T10:49:55+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://vercel.com/templates/react/turborepo-design-system</loc>
+  <lastmod>2024-02-13T10:49:55+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://vercel.com/templates/next.js/turborepo-react-native</loc>
+  <lastmod>2024-02-13T10:49:55+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://vercel.com/docs/analytics</loc>
+  <lastmod>2024-02-13T10:49:55+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://vercel.com/product-tour</loc>
+  <lastmod>2024-02-13T10:49:55+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://vercel.com/customers/washington-post-next.js-vercel-engineering-at-the-speed-of-breaking-news</loc>
+  <lastmod>2024-02-13T10:49:55+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://vercel.com/legal/sla</loc>
+  <lastmod>2024-02-13T10:49:55+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://vercel.com/docs/security</loc>
+  <lastmod>2024-02-13T10:49:55+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://vercel.com/blog/washington-post-next.js-vercel-engineering-at-the-speed-of-breaking-news?nxtPslug=washington-post-next.js-vercel-engineering-at-the-speed-of-breaking-news</loc>
+  <lastmod>2024-02-13T10:49:55+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://vercel.com/customers/scale-unifies-design-and-performance-with-next-js-and-vercel</loc>
+  <lastmod>2024-02-13T10:49:55+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://vercel.com/blog/how-hashicorp-developers-iterate-faster-with-isr</loc>
+  <lastmod>2024-02-13T10:49:55+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://vercel.com/blog/category/engineering</loc>
+  <lastmod>2024-02-13T10:49:55+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://vercel.com/blog/category/community</loc>
+  <lastmod>2024-02-13T10:49:55+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://vercel.com/blog/category/company-news</loc>
+  <lastmod>2024-02-13T10:49:55+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://vercel.com/blog/category/customers</loc>
+  <lastmod>2024-02-13T10:49:55+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://vercel.com/press</loc>
+  <lastmod>2024-02-13T10:49:55+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://vercel.com/changelog/ai-integration-and-playground-in-the-vercel-dashboard</loc>
+  <lastmod>2024-02-13T10:49:55+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://vercel.com/docs/integrations</loc>
+  <lastmod>2024-02-13T10:49:55+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://vercel.com/changelog/recent-preview-deployments-now-displayed-in-the-dashboard</loc>
+  <lastmod>2024-02-13T10:49:55+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://vercel.com/docs/dashboard-features</loc>
+  <lastmod>2024-02-13T10:49:55+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://vercel.com/changelog/invite-collaborators-to-view-and-comment-on-your-deployments</loc>
+  <lastmod>2024-02-13T10:49:55+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://vercel.com/docs/deployments/overview</loc>
+  <lastmod>2024-02-13T10:49:55+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://vercel.com/changelog/sensitive-environment-variables-are-now-available</loc>
+  <lastmod>2024-02-13T10:49:55+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://vercel.com/changelog/legacy-environment-variable-secrets-are-being-sunset</loc>
+  <lastmod>2024-02-13T10:49:55+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://vercel.com/docs/projects/environment-variables/sensitive-environment-variables</loc>
+  <lastmod>2024-02-13T10:49:55+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://vercel.com/docs/cli/secrets</loc>
+  <lastmod>2024-02-13T10:49:55+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://vercel.com/docs/projects/environment-variables/shared-environment-variables</loc>
+  <lastmod>2024-02-13T10:49:55+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://vercel.com/changelog/instrument-and-trace-applications-with-the-opentelemetry-collector</loc>
+  <lastmod>2024-02-13T10:49:55+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://vercel.com/docs/observability/otel-overview/quickstart</loc>
+  <lastmod>2024-02-13T10:49:55+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://vercel.com/changelog/switch-between-branches-directly-from-deployments</loc>
+  <lastmod>2024-02-13T10:49:55+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://vercel.com/docs/workflow-collaboration/vercel-toolbar</loc>
+  <lastmod>2024-02-13T10:49:55+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://vercel.com/changelog/public-environment-variables-now-display-a-warning</loc>
+  <lastmod>2024-02-13T10:49:55+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://vercel.com/docs/projects/environment-variables</loc>
+  <lastmod>2024-02-13T10:49:55+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://vercel.com/changelog/improved-resiliency-for-vercel-functions-with-failover-support</loc>
+  <lastmod>2024-02-13T10:49:55+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://vercel.com/docs/functions/configuring-functions/region</loc>
+  <lastmod>2024-02-13T10:49:55+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://vercel.com/docs/security/secure-compute</loc>
+  <lastmod>2024-02-13T10:49:55+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://vercel.com/changelog/webhooks-are-now-generally-available</loc>
+  <lastmod>2024-02-13T10:49:55+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://vercel.com/docs/observability/webhooks-overview</loc>
+  <lastmod>2024-02-13T10:49:55+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://vercel.com/</loc>
+  <lastmod>2024-02-13T10:49:55+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://vercel.com/docs/fundamentals</loc>
+  <lastmod>2024-02-13T10:49:55+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://vercel.com/docs/getting-started-with-vercel</loc>
+  <lastmod>2024-02-13T10:49:55+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://vercel.com/docs/projects/overview</loc>
+  <lastmod>2024-02-13T10:49:55+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://vercel.com/docs/projects/project-configuration</loc>
+  <lastmod>2024-02-13T10:49:55+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://vercel.com/docs/deployments/builds</loc>
+  <lastmod>2024-02-13T10:49:55+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://vercel.com/docs/infrastructure</loc>
+  <lastmod>2024-02-13T10:49:55+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://vercel.com/docs/edge-network/overview</loc>
+  <lastmod>2024-02-13T10:49:55+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://vercel.com/docs/image-optimization</loc>
+  <lastmod>2024-02-13T10:49:55+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://vercel.com/docs/edge-network/caching</loc>
+  <lastmod>2024-02-13T10:49:55+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://vercel.com/docs/infrastructure/data-cache</loc>
+  <lastmod>2024-02-13T10:49:55+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://vercel.com/docs/cron-jobs</loc>
+  <lastmod>2024-02-13T10:49:55+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://vercel.com/docs/workflow-collaboration</loc>
+  <lastmod>2024-02-13T10:49:55+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://vercel.com/docs/workflow-collaboration/conformance</loc>
+  <lastmod>2024-02-13T10:49:55+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://vercel.com/docs/workflow-collaboration/code-owners</loc>
+  <lastmod>2024-02-13T10:49:55+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://vercel.com/docs/workflow-collaboration/boundaries</loc>
+  <lastmod>2024-02-13T10:49:55+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://vercel.com/docs/storage</loc>
+  <lastmod>2024-02-13T10:49:55+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://vercel.com/docs/storage/vercel-postgres</loc>
+  <lastmod>2024-02-13T10:49:55+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://vercel.com/docs/storage/vercel-blob</loc>
+  <lastmod>2024-02-13T10:49:55+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://vercel.com/docs/storage/edge-config</loc>
+  <lastmod>2024-02-13T10:49:55+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://vercel.com/docs/observability</loc>
+  <lastmod>2024-02-13T10:49:55+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://vercel.com/docs/speed-insights</loc>
+  <lastmod>2024-02-13T10:49:55+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://vercel.com/docs/observability/runtime-logs</loc>
+  <lastmod>2024-02-13T10:49:55+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://vercel.com/docs/observability/activity-log</loc>
+  <lastmod>2024-02-13T10:49:55+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://vercel.com/docs/observability/log-drains-overview/log-drains</loc>
+  <lastmod>2024-02-13T10:49:55+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://vercel.com/docs/observability/checks-overview</loc>
+  <lastmod>2024-02-13T10:49:55+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://vercel.com/docs/security/overview</loc>
+  <lastmod>2024-02-13T10:49:55+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://vercel.com/docs/security/shared-responsibility</loc>
+  <lastmod>2024-02-13T10:49:55+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://vercel.com/docs/security/vercel-firewall</loc>
+  <lastmod>2024-02-13T10:49:55+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://vercel.com/docs/security/access-control</loc>
+  <lastmod>2024-02-13T10:49:55+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://vercel.com/docs/security/saml</loc>
+  <lastmod>2024-02-13T10:49:55+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://vercel.com/docs/security/encryption</loc>
+  <lastmod>2024-02-13T10:49:55+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://vercel.com/docs/security/directory-sync</loc>
+  <lastmod>2024-02-13T10:49:55+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://vercel.com/docs/security/deployment-protection</loc>
+  <lastmod>2024-02-13T10:49:55+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://vercel.com/docs/observability/audit-log</loc>
+  <lastmod>2024-02-13T10:49:55+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://vercel.com/docs/security/ddos-mitigation</loc>
+  <lastmod>2024-02-13T10:49:55+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://vercel.com/docs/cli-api</loc>
+  <lastmod>2024-02-13T10:49:55+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://vercel.com/docs/cli</loc>
+  <lastmod>2024-02-13T10:49:55+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://vercel.com/docs/build-output-api/v3</loc>
+  <lastmod>2024-02-13T10:49:55+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://vercel.com/docs/vercel-platform</loc>
+  <lastmod>2024-02-13T10:49:55+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://vercel.com/docs/projects/domains</loc>
+  <lastmod>2024-02-13T10:49:55+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://vercel.com/docs/accounts</loc>
+  <lastmod>2024-02-13T10:49:55+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://vercel.com/docs/limits/overview</loc>
+  <lastmod>2024-02-13T10:49:55+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://vercel.com/docs/production-checklist</loc>
+  <lastmod>2024-02-13T10:49:55+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://vercel.com/docs/incremental-migration</loc>
+  <lastmod>2024-02-13T10:49:55+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://vercel.com/docs/release-phases</loc>
+  <lastmod>2024-02-13T10:49:55+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://vercel.com/docs/vercel-platform/private-registry</loc>
+  <lastmod>2024-02-13T10:49:55+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://vercel.com/docs/vercel-platform/glossary</loc>
+  <lastmod>2024-02-13T10:49:55+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://vercel.com/docs/errors/error-list</loc>
+  <lastmod>2024-02-13T10:49:55+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://vercel.com/docs/errors</loc>
+  <lastmod>2024-02-13T10:49:55+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://vercel.com/docs/all-products</loc>
+  <lastmod>2024-02-13T10:49:55+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://vercel.com/docs/rest-api/endpoints</loc>
+  <lastmod>2024-02-13T10:49:55+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://vercel.com/docs/rest-api/errors</loc>
+  <lastmod>2024-02-13T10:49:55+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://vercel.com/docs/rest-api/interfaces</loc>
+  <lastmod>2024-02-13T10:49:55+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://vercel.com/docs/rest-api/vercel-api-integrations</loc>
+  <lastmod>2024-02-13T10:49:55+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://vercel.com/login?next=%2Faccount%2Ftokens</loc>
+  <lastmod>2024-02-13T10:49:55+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://vercel.com/docs/accounts/create-a-team</loc>
+  <lastmod>2024-02-13T10:49:55+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://vercel.com/docs/observability/log-drains-overview/log-drains-reference</loc>
+  <lastmod>2024-02-13T10:49:55+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://vercel.com/docs/edge-network/headers</loc>
+  <lastmod>2024-02-13T10:49:55+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://vercel.com/docs/cli/whoami</loc>
+  <lastmod>2024-02-13T10:49:55+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://vercel.com/docs/getting-started-with-vercel/projects-deployments</loc>
+  <lastmod>2024-02-13T10:49:55+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://vercel.com/docs/getting-started-with-vercel/domains</loc>
+  <lastmod>2024-02-13T10:49:55+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://vercel.com/docs/getting-started-with-vercel/collaborate</loc>
+  <lastmod>2024-02-13T10:49:55+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://vercel.com/docs/getting-started-with-vercel/next-steps</loc>
+  <lastmod>2024-02-13T10:49:55+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://vercel.com/docs/frameworks/astro</loc>
+  <lastmod>2024-02-13T10:49:55+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://vercel.com/docs/frameworks/remix</loc>
+  <lastmod>2024-02-13T10:49:55+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://vercel.com/docs/frameworks/vite</loc>
+  <lastmod>2024-02-13T10:49:55+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://vercel.com/docs/frameworks/more-frameworks</loc>
+  <lastmod>2024-02-13T10:49:55+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://vercel.com/templates/starter</loc>
+  <lastmod>2024-02-13T10:49:55+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://vercel.com/templates/next.js/nuxtjs-boilerplate</loc>
+  <lastmod>2024-02-13T10:49:55+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://vercel.com/templates/next.js/sveltekit-boilerplate</loc>
+  <lastmod>2024-02-13T10:49:55+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://vercel.com/guides/fine-tuning-openai-nextjs</loc>
+  <lastmod>2024-02-13T10:49:55+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://vercel.com/guides/openai-function-calling</loc>
+  <lastmod>2024-02-13T10:49:55+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://vercel.com/guides/what-is-a-large-language-model</loc>
+  <lastmod>2024-02-13T10:49:55+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://vercel.com/guides/building-ecommerce-sites-with-next-js-and-shopify</loc>
+  <lastmod>2024-02-13T10:49:55+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://vercel.com/blog/announcing-v0-generative-ui</loc>
+  <lastmod>2024-02-13T10:49:55+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://vercel.com/blog/improving-developer-workflow</loc>
+  <lastmod>2024-02-13T10:49:55+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://vercel.com/blog/platforms-starter-kit</loc>
+  <lastmod>2024-02-13T10:49:55+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://vercel.com/blog/edge-config-and-launch-darkly</loc>
+  <lastmod>2024-02-13T10:49:55+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://vercel.com/blog/enhanced-content-management-for-headless-cmses</loc>
+  <lastmod>2024-02-13T10:49:55+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://vercel.com/experts/akqa</loc>
+  <lastmod>2024-02-13T10:49:55+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://vercel.com/experts/horizontal</loc>
+  <lastmod>2024-02-13T10:49:55+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://vercel.com/experts/monogram</loc>
+  <lastmod>2024-02-13T10:49:55+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://vercel.com/experts/orium</loc>
+  <lastmod>2024-02-13T10:49:55+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://vercel.com/experts/10up</loc>
+  <lastmod>2024-02-13T10:49:55+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://vercel.com/experts/5874-commerce</loc>
+  <lastmod>2024-02-13T10:49:55+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://vercel.com/experts/9thco</loc>
+  <lastmod>2024-02-13T10:49:55+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://vercel.com/experts/agencyq</loc>
+  <lastmod>2024-02-13T10:49:55+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://vercel.com/experts/airnauts</loc>
+  <lastmod>2024-02-13T10:49:55+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://vercel.com/experts/alliance-innovations</loc>
+  <lastmod>2024-02-13T10:49:55+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://vercel.com/experts/alpenite</loc>
+  <lastmod>2024-02-13T10:49:55+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://vercel.com/experts/altudo</loc>
+  <lastmod>2024-02-13T10:49:55+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://vercel.com/experts/americaneagle-com</loc>
+  <lastmod>2024-02-13T10:49:55+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://vercel.com/experts/appnovation</loc>
+  <lastmod>2024-02-13T10:49:55+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://vercel.com/experts/arke</loc>
+  <lastmod>2024-02-13T10:49:55+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://vercel.com/experts/basement</loc>
+  <lastmod>2024-02-13T10:49:55+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://vercel.com/experts/basic-dept</loc>
+  <lastmod>2024-02-13T10:49:55+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://vercel.com/experts/bejamas</loc>
+  <lastmod>2024-02-13T10:49:55+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://vercel.com/experts/blacksmith</loc>
+  <lastmod>2024-02-13T10:49:55+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://vercel.com/experts/blazity</loc>
+  <lastmod>2024-02-13T10:49:55+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://vercel.com/experts/brandung</loc>
+  <lastmod>2024-02-13T10:49:55+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://vercel.com/experts/brimit</loc>
+  <lastmod>2024-02-13T10:49:55+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://vercel.com/experts/build-in-amsterdam</loc>
+  <lastmod>2024-02-13T10:49:55+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://vercel.com/experts/byteminds</loc>
+  <lastmod>2024-02-13T10:49:55+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://vercel.com/experts/calashock-commerce</loc>
+  <lastmod>2024-02-13T10:49:55+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://vercel.com/experts/callstack</loc>
+  <lastmod>2024-02-13T10:49:55+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://vercel.com/experts/captriz</loc>
+  <lastmod>2024-02-13T10:49:55+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://vercel.com/experts/chapter-three</loc>
+  <lastmod>2024-02-13T10:49:55+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://vercel.com/experts/chotinc</loc>
+  <lastmod>2024-02-13T10:49:55+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://vercel.com/experts/clever-franke</loc>
+  <lastmod>2024-02-13T10:49:55+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://vercel.com/experts/codal</loc>
+  <lastmod>2024-02-13T10:49:55+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://vercel.com/experts/code-and-theory</loc>
+  <lastmod>2024-02-13T10:49:55+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://vercel.com/experts/codehouse</loc>
+  <lastmod>2024-02-13T10:49:55+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://vercel.com/experts/commerce-ui</loc>
+  <lastmod>2024-02-13T10:49:55+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://vercel.com/experts/convert-digital</loc>
+  <lastmod>2024-02-13T10:49:55+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://vercel.com/experts/corra</loc>
+  <lastmod>2024-02-13T10:49:55+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://vercel.com/experts/course-studio</loc>
+  <lastmod>2024-02-13T10:49:55+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://vercel.com/experts/dakai</loc>
+  <lastmod>2024-02-13T10:49:55+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://vercel.com/experts/delicious-simplicity</loc>
+  <lastmod>2024-02-13T10:49:55+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://vercel.com/experts/electric-enjin</loc>
+  <lastmod>2024-02-13T10:49:55+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://vercel.com/experts/elision</loc>
+  <lastmod>2024-02-13T10:49:55+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://vercel.com/experts/evil-martians</loc>
+  <lastmod>2024-02-13T10:49:55+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://vercel.com/experts/farbenmeer</loc>
+  <lastmod>2024-02-13T10:49:55+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://vercel.com/experts/ffw</loc>
+  <lastmod>2024-02-13T10:49:55+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://vercel.com/experts/focusreactive</loc>
+  <lastmod>2024-02-13T10:49:55+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://vercel.com/experts/formidable</loc>
+  <lastmod>2024-02-13T10:49:55+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://vercel.com/experts/futurice</loc>
+  <lastmod>2024-02-13T10:49:55+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://vercel.com/experts/gateway-web</loc>
+  <lastmod>2024-02-13T10:49:55+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://vercel.com/experts/half-helix</loc>
+  <lastmod>2024-02-13T10:49:55+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://vercel.com/experts/hidden-mountain-data</loc>
+  <lastmod>2024-02-13T10:49:55+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://vercel.com/experts/hoo-koo-e-koo</loc>
+  <lastmod>2024-02-13T10:49:55+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://vercel.com/experts/ie</loc>
+  <lastmod>2024-02-13T10:49:55+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://vercel.com/experts/impekable</loc>
+  <lastmod>2024-02-13T10:49:55+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://vercel.com/experts/increas-io</loc>
+  <lastmod>2024-02-13T10:49:55+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://vercel.com/experts/inlight</loc>
+  <lastmod>2024-02-13T10:49:55+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://vercel.com/experts/iona</loc>
+  <lastmod>2024-02-13T10:49:55+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://vercel.com/experts/jung-von-matt-tech</loc>
+  <lastmod>2024-02-13T10:49:55+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://vercel.com/experts/konabos</loc>
+  <lastmod>2024-02-13T10:49:55+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://vercel.com/experts/maker-tech</loc>
+  <lastmod>2024-02-13T10:49:55+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://vercel.com/experts/merkle</loc>
+  <lastmod>2024-02-13T10:49:55+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://vercel.com/experts/mirahi</loc>
+  <lastmod>2024-02-13T10:49:55+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://vercel.com/experts/mirumee</loc>
+  <lastmod>2024-02-13T10:49:55+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://vercel.com/experts/mojotech</loc>
+  <lastmod>2024-02-13T10:49:55+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://vercel.com/experts/momentum</loc>
+  <lastmod>2024-02-13T10:49:55+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://vercel.com/experts/mudbath</loc>
+  <lastmod>2024-02-13T10:49:55+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://vercel.com/experts/mygom-tech</loc>
+  <lastmod>2024-02-13T10:49:55+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://vercel.com/experts/naturaily</loc>
+  <lastmod>2024-02-13T10:49:55+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://vercel.com/experts/neat</loc>
+  <lastmod>2024-02-13T10:49:55+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://vercel.com/experts/neverbland</loc>
+  <lastmod>2024-02-13T10:49:55+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://vercel.com/experts/new-elevation</loc>
+  <lastmod>2024-02-13T10:49:55+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://vercel.com/experts/nightjar</loc>
+  <lastmod>2024-02-13T10:49:55+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://vercel.com/experts/o2web</loc>
+  <lastmod>2024-02-13T10:49:55+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://vercel.com/experts/peakactivity</loc>
+  <lastmod>2024-02-13T10:49:55+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://vercel.com/experts/perficient</loc>
+  <lastmod>2024-02-13T10:49:55+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://vercel.com/experts/planetary</loc>
+  <lastmod>2024-02-13T10:49:55+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://vercel.com/experts/rangle-io</loc>
+  <lastmod>2024-02-13T10:49:55+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://vercel.com/experts/rda</loc>
+  <lastmod>2024-02-13T10:49:55+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://vercel.com/experts/roboto</loc>
+  <lastmod>2024-02-13T10:49:55+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://vercel.com/experts/rubric</loc>
+  <lastmod>2024-02-13T10:49:55+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://vercel.com/experts/run-the-show</loc>
+  <lastmod>2024-02-13T10:49:55+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://vercel.com/experts/sanctuary-computer</loc>
+  <lastmod>2024-02-13T10:49:55+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://vercel.com/experts/section</loc>
+  <lastmod>2024-02-13T10:49:55+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://vercel.com/experts/sid-lee</loc>
+  <lastmod>2024-02-13T10:49:55+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://vercel.com/experts/stack-five</loc>
+  <lastmod>2024-02-13T10:49:55+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://vercel.com/experts/strawberry</loc>
+  <lastmod>2024-02-13T10:49:55+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://vercel.com/experts/studio-freight</loc>
+  <lastmod>2024-02-13T10:49:55+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://vercel.com/experts/sunrise-integration</loc>
+  <lastmod>2024-02-13T10:49:55+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://vercel.com/experts/thinkmill</loc>
+  <lastmod>2024-02-13T10:49:55+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://vercel.com/experts/tinloof</loc>
+  <lastmod>2024-02-13T10:49:55+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://vercel.com/experts/trellis</loc>
+  <lastmod>2024-02-13T10:49:55+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://vercel.com/experts/underbelly</loc>
+  <lastmod>2024-02-13T10:49:55+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://vercel.com/experts/unit203</loc>
+  <lastmod>2024-02-13T10:49:55+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://vercel.com/experts/unlikely</loc>
+  <lastmod>2024-02-13T10:49:55+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://vercel.com/experts/unrvld</loc>
+  <lastmod>2024-02-13T10:49:55+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://vercel.com/experts/velir</loc>
+  <lastmod>2024-02-13T10:49:55+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://vercel.com/experts/verndale</loc>
+  <lastmod>2024-02-13T10:49:55+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://vercel.com/experts/webkul</loc>
+  <lastmod>2024-02-13T10:49:55+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://vercel.com/experts/work-and-co</loc>
+  <lastmod>2024-02-13T10:49:55+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://vercel.com/experts/wunderman-thompson</loc>
+  <lastmod>2024-02-13T10:49:55+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://vercel.com/experts/xcentium</loc>
+  <lastmod>2024-02-13T10:49:55+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://vercel.com/signup?plan=pro&amp;next=/dashboard</loc>
+  <lastmod>2024-02-13T10:49:55+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://vercel.com/docs/deployments/concurrent-builds</loc>
+  <lastmod>2024-02-13T10:49:55+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://vercel.com/docs/deployments/generated-urls</loc>
+  <lastmod>2024-02-13T10:49:55+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://vercel.com/docs/limits/fair-use-guidelines</loc>
+  <lastmod>2024-02-13T10:49:55+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://vercel.com/guides/transferring-projects-from-hobby-to-team</loc>
+  <lastmod>2024-02-13T10:49:55+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://vercel.com/docs/limits/usage</loc>
+  <lastmod>2024-02-13T10:49:55+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://vercel.com/guides/nextjs-multi-tenant-application</loc>
+  <lastmod>2024-02-13T10:49:55+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://vercel.com/guides/vector-databases</loc>
+  <lastmod>2024-02-13T10:49:55+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://vercel.com/guides/deploying-react-with-vercel</loc>
+  <lastmod>2024-02-13T10:49:55+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://vercel.com/guides/nextjs-prisma-postgres</loc>
+  <lastmod>2024-02-13T10:49:55+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://vercel.com/guides/resolve-err-ssl-protocol-error-with-vercel</loc>
+  <lastmod>2024-02-13T10:49:55+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://vercel.com/guides/per-environment-and-per-branch-build-commands</loc>
+  <lastmod>2024-02-13T10:49:55+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://vercel.com/guides/is-vercel-pci-compliant</loc>
+  <lastmod>2024-02-13T10:49:55+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://vercel.com/guides/how-do-i-generate-a-sitemap-for-my-nextjs-app-on-vercel</loc>
+  <lastmod>2024-02-13T10:49:55+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://vercel.com/guides/missing-routes-manifest-or-output-turborepo-nx</loc>
+  <lastmod>2024-02-13T10:49:55+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://vercel.com/guides/access-nextjs-localhost-https-certificate-self-signed</loc>
+  <lastmod>2024-02-13T10:49:55+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://vercel.com/guides/leave-page-confirmation-dialog-before-unload-nextjs-react</loc>
+  <lastmod>2024-02-13T10:49:55+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://vercel.com/guides/share-vercel-cache-across-deployments-nextjs</loc>
+  <lastmod>2024-02-13T10:49:55+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://vercel.com/guides/can-vercel-sponsor-my-open-source-project</loc>
+  <lastmod>2024-02-13T10:49:55+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://vercel.com/guides/does-streaming-affect-seo</loc>
+  <lastmod>2024-02-13T10:49:55+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://vercel.com/resources/collections/frontend-cloud</loc>
+  <lastmod>2024-02-13T10:49:55+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://vercel.com/blog/neo-financial</loc>
+  <lastmod>2024-02-13T10:49:55+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://vercel.com/blog/runway-enables-next-generation-content-creation-with-ai-and-vercel</loc>
+  <lastmod>2024-02-13T10:49:55+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://vercel.com/integrations/contentful</loc>
+  <lastmod>2024-02-13T10:49:55+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://vercel.com/integrations/mongodbatlas</loc>
+  <lastmod>2024-02-13T10:49:55+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://vercel.com/integrations/sanity</loc>
+  <lastmod>2024-02-13T10:49:55+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://vercel.com/docs/integrations/cms/sitecore</loc>
+  <lastmod>2024-02-13T10:49:55+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://vercel.com/integrations/supabase</loc>
+  <lastmod>2024-02-13T10:49:55+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://vercel.com/integrations/tinybird</loc>
+  <lastmod>2024-02-13T10:49:55+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://vercel.com/integrations/anyscale-endpoints</loc>
+  <lastmod>2024-02-13T10:49:55+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://vercel.com/integrations/elevenlabs</loc>
+  <lastmod>2024-02-13T10:49:55+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://vercel.com/integrations/lmnt</loc>
+  <lastmod>2024-02-13T10:49:55+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://vercel.com/integrations/modal</loc>
+  <lastmod>2024-02-13T10:49:55+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://vercel.com/integrations/pplx-api</loc>
+  <lastmod>2024-02-13T10:49:55+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://vercel.com/integrations/replicate</loc>
+  <lastmod>2024-02-13T10:49:55+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://vercel.com/integrations/together-ai</loc>
+  <lastmod>2024-02-13T10:49:55+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://vercel.com/integrations/fal</loc>
+  <lastmod>2024-02-13T10:49:55+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://vercel.com/integrations/launchdarkly</loc>
+  <lastmod>2024-02-13T10:49:55+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://vercel.com/integrations/statsig</loc>
+  <lastmod>2024-02-13T10:49:55+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://vercel.com/integrations/vercel-analytics</loc>
+  <lastmod>2024-02-13T10:49:55+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://vercel.com/integrations/happykit</loc>
+  <lastmod>2024-02-13T10:49:55+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://vercel.com/integrations/hypertune</loc>
+  <lastmod>2024-02-13T10:49:55+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://vercel.com/integrations/kameleoon</loc>
+  <lastmod>2024-02-13T10:49:55+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://vercel.com/integrations/split</loc>
+  <lastmod>2024-02-13T10:49:55+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://vercel.com/integrations/agility-cms</loc>
+  <lastmod>2024-02-13T10:49:55+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://vercel.com/new/templates?search=builder&amp;cms=builder.io</loc>
+  <lastmod>2024-02-13T10:49:55+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://vercel.com/integrations/buttercms</loc>
+  <lastmod>2024-02-13T10:49:55+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://vercel.com/integrations/datocms</loc>
+  <lastmod>2024-02-13T10:49:55+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://vercel.com/integrations/formspree</loc>
+  <lastmod>2024-02-13T10:49:55+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://vercel.com/integrations/makeswift</loc>
+  <lastmod>2024-02-13T10:49:55+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://vercel.com/integrations/contentstack-cms</loc>
+  <lastmod>2024-02-13T10:49:55+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://vercel.com/integrations/bitbucket</loc>
+  <lastmod>2024-02-13T10:49:55+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://vercel.com/integrations/github</loc>
+  <lastmod>2024-02-13T10:49:55+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://vercel.com/integrations/gitlab</loc>
+  <lastmod>2024-02-13T10:49:55+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://vercel.com/templates/next.js/nextjs-saleor-commerce</loc>
+  <lastmod>2024-02-13T10:49:55+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://vercel.com/templates/next.js/salesforce-commerce-cloud-starter</loc>
+  <lastmod>2024-02-13T10:49:55+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://vercel.com/docs/integrations/cms/shopify</loc>
+  <lastmod>2024-02-13T10:49:55+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://vercel.com/integrations/ordercloud</loc>
+  <lastmod>2024-02-13T10:49:55+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://vercel.com/integrations/swell</loc>
+  <lastmod>2024-02-13T10:49:55+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://vercel.com/integrations/wix</loc>
+  <lastmod>2024-02-13T10:49:55+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://vercel.com/templates/next.js/aws-dynamodb-with-nextjs-api-routes</loc>
+  <lastmod>2024-02-13T10:49:55+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://vercel.com/templates/next.js/aws-s3-image-upload-nextjs</loc>
+  <lastmod>2024-02-13T10:49:55+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://vercel.com/integrations/azurecosmosdb</loc>
+  <lastmod>2024-02-13T10:49:55+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://vercel.com/integrations/couchbase-capella</loc>
+  <lastmod>2024-02-13T10:49:55+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://vercel.com/integrations/fauna</loc>
+  <lastmod>2024-02-13T10:49:55+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://vercel.com/integrations/hasura</loc>
+  <lastmod>2024-02-13T10:49:55+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://vercel.com/integrations/pinecone</loc>
+  <lastmod>2024-02-13T10:49:55+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://vercel.com/integrations/planetscale</loc>
+  <lastmod>2024-02-13T10:49:55+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://vercel.com/integrations/singlestoredb-cloud</loc>
+  <lastmod>2024-02-13T10:49:55+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://vercel.com/integrations/stepzen</loc>
+  <lastmod>2024-02-13T10:49:55+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://vercel.com/integrations/thin</loc>
+  <lastmod>2024-02-13T10:49:55+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://vercel.com/integrations/tidb-cloud</loc>
+  <lastmod>2024-02-13T10:49:55+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://vercel.com/integrations/upstash</loc>
+  <lastmod>2024-02-13T10:49:55+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://vercel.com/integrations/xata</loc>
+  <lastmod>2024-02-13T10:49:55+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://vercel.com/integrations/cockroachdb</loc>
+  <lastmod>2024-02-13T10:49:55+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://vercel.com/integrations/neon</loc>
+  <lastmod>2024-02-13T10:49:55+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://vercel.com/integrations/tigris</loc>
+  <lastmod>2024-02-13T10:49:55+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://vercel.com/integrations/edgedb</loc>
+  <lastmod>2024-02-13T10:49:55+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://vercel.com/templates/next.js/prisma-postgres-auth-starter</loc>
+  <lastmod>2024-02-13T10:49:55+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://vercel.com/partners/aws</loc>
+  <lastmod>2024-02-13T10:49:55+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://vercel.com/integrations/clerk</loc>
+  <lastmod>2024-02-13T10:49:55+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://vercel.com/integrations/deploy-summary</loc>
+  <lastmod>2024-02-13T10:49:55+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://vercel.com/integrations/doppler</loc>
+  <lastmod>2024-02-13T10:49:55+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://vercel.com/integrations/inngest</loc>
+  <lastmod>2024-02-13T10:49:55+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://vercel.com/templates/next.js/liveblocks-starter-kit</loc>
+  <lastmod>2024-02-13T10:49:55+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://vercel.com/integrations/railway</loc>
+  <lastmod>2024-02-13T10:49:55+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://vercel.com/integrations/raycast</loc>
+  <lastmod>2024-02-13T10:49:55+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://vercel.com/integrations/serverlessq</loc>
+  <lastmod>2024-02-13T10:49:55+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://vercel.com/integrations/svix</loc>
+  <lastmod>2024-02-13T10:49:55+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://vercel.com/integrations/terraform</loc>
+  <lastmod>2024-02-13T10:49:55+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://vercel.com/integrations/axiom</loc>
+  <lastmod>2024-02-13T10:49:55+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://vercel.com/integrations/baselime</loc>
+  <lastmod>2024-02-13T10:49:55+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://vercel.com/integrations/betterstack</loc>
+  <lastmod>2024-02-13T10:49:55+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://vercel.com/integrations/graphjson</loc>
+  <lastmod>2024-02-13T10:49:55+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://vercel.com/integrations/logalert</loc>
+  <lastmod>2024-02-13T10:49:55+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://vercel.com/integrations/logflare</loc>
+  <lastmod>2024-02-13T10:49:55+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://vercel.com/integrations/sematext-logs</loc>
+  <lastmod>2024-02-13T10:49:55+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://vercel.com/integrations/knock</loc>
+  <lastmod>2024-02-13T10:49:55+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://vercel.com/integrations/novu</loc>
+  <lastmod>2024-02-13T10:49:55+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://vercel.com/integrations/slack</loc>
+  <lastmod>2024-02-13T10:49:55+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://vercel.com/integrations/checkly</loc>
+  <lastmod>2024-02-13T10:49:55+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://vercel.com/integrations/debugbear</loc>
+  <lastmod>2024-02-13T10:49:55+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://vercel.com/integrations/zeitgeist-app</loc>
+  <lastmod>2024-02-13T10:49:55+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://vercel.com/integrations/datadog</loc>
+  <lastmod>2024-02-13T10:49:55+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://vercel.com/integrations/highlight</loc>
+  <lastmod>2024-02-13T10:49:55+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://vercel.com/integrations/newrelic</loc>
+  <lastmod>2024-02-13T10:49:55+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://vercel.com/integrations/sentry</loc>
+  <lastmod>2024-02-13T10:49:55+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://vercel.com/integrations/shipshape</loc>
+  <lastmod>2024-02-13T10:49:55+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://vercel.com/integrations/middleware</loc>
+  <lastmod>2024-02-13T10:49:55+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://vercel.com/integrations/gh-issues</loc>
+  <lastmod>2024-02-13T10:49:55+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://vercel.com/integrations/jira</loc>
+  <lastmod>2024-02-13T10:49:55+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://vercel.com/integrations/linear</loc>
+  <lastmod>2024-02-13T10:49:55+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://vercel.com/integrations/meilisearch-cloud</loc>
+  <lastmod>2024-02-13T10:49:55+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://vercel.com/templates/next.js/blog-with-comments</loc>
+  <lastmod>2024-02-13T10:49:55+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://vercel.com/integrations/meticulous</loc>
+  <lastmod>2024-02-13T10:49:55+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://vercel.com/templates/ai</loc>
+  <lastmod>2024-02-13T10:49:55+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://vercel.com/templates/ecommerce</loc>
+  <lastmod>2024-02-13T10:49:55+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://vercel.com/templates/blog</loc>
+  <lastmod>2024-02-13T10:49:55+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://vercel.com/templates/edge-functions</loc>
+  <lastmod>2024-02-13T10:49:55+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://vercel.com/templates/edge-middleware</loc>
+  <lastmod>2024-02-13T10:49:55+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://vercel.com/templates/edge-config</loc>
+  <lastmod>2024-02-13T10:49:55+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://vercel.com/templates/portfolio</loc>
+  <lastmod>2024-02-13T10:49:55+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://vercel.com/templates/saas</loc>
+  <lastmod>2024-02-13T10:49:55+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://vercel.com/templates/cms</loc>
+  <lastmod>2024-02-13T10:49:55+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://vercel.com/templates/cron</loc>
+  <lastmod>2024-02-13T10:49:55+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://vercel.com/templates/multi-tenant-apps</loc>
+  <lastmod>2024-02-13T10:49:55+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://vercel.com/templates/realtime-apps</loc>
+  <lastmod>2024-02-13T10:49:55+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://vercel.com/templates/documentation</loc>
+  <lastmod>2024-02-13T10:49:55+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://vercel.com/templates/virtual-event</loc>
+  <lastmod>2024-02-13T10:49:55+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://vercel.com/templates/monorepos</loc>
+  <lastmod>2024-02-13T10:49:55+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://vercel.com/templates/web3</loc>
+  <lastmod>2024-02-13T10:49:55+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://vercel.com/templates/next.js/image-gallery-starter</loc>
+  <lastmod>2024-02-13T10:49:55+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://vercel.com/templates/next.js/nextjs-ai-chatbot</loc>
+  <lastmod>2024-02-13T10:49:55+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://vercel.com/templates/next.js/documentation-starter-kit</loc>
+  <lastmod>2024-02-13T10:49:55+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://vercel.com/templates/next.js/admin-dashboard-tailwind-postgres-react-nextjs</loc>
+  <lastmod>2024-02-13T10:49:55+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://vercel.com/templates/next.js/app-directory</loc>
+  <lastmod>2024-02-13T10:49:55+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://vercel.com/templates/next.js/nextjs-enterprise-boilerplate</loc>
+  <lastmod>2024-02-13T10:49:55+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://vercel.com/templates/next.js/blog-starter-kit</loc>
+  <lastmod>2024-02-13T10:49:55+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://vercel.com/templates/next.js/nextjs-contentlayer</loc>
+  <lastmod>2024-02-13T10:49:55+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://vercel.com/templates/next.js/ai-photo-restorer</loc>
+  <lastmod>2024-02-13T10:49:55+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://vercel.com/templates/next.js/precedent</loc>
+  <lastmod>2024-02-13T10:49:55+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://vercel.com/templates/nuxt/nuxtjs-boilerplate</loc>
+  <lastmod>2024-02-13T10:49:55+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://vercel.com/templates/next.js/portfolio-starter-kit</loc>
+  <lastmod>2024-02-13T10:49:55+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://vercel.com/templates/next.js/liftoff</loc>
+  <lastmod>2024-02-13T10:49:55+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://vercel.com/templates/next.js/blog-nextjs-sanity</loc>
+  <lastmod>2024-02-13T10:49:55+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://vercel.com/templates/nuxt/onelink</loc>
+  <lastmod>2024-02-13T10:49:55+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://vercel.com/blog/introducing-conformance</loc>
+  <lastmod>2024-02-13T10:49:55+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://vercel.com/blog/partial-prerendering-with-next-js-creating-a-new-default-rendering-model</loc>
+  <lastmod>2024-02-13T10:49:55+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://vercel.com/blog/how-sonos-amplified-their-devex</loc>
+  <lastmod>2024-02-13T10:49:55+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://vercel.com/blog/forrester-total-economic-impact-vercel-ROI</loc>
+  <lastmod>2024-02-13T10:49:55+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://vercel.com/blog/ai-integrations</loc>
+  <lastmod>2024-02-13T10:49:55+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://vercel.com/blog/finishing-turborepos-migration-from-go-to-rust</loc>
+  <lastmod>2024-02-13T10:49:55+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://vercel.com/blog/pci-compliance-for-ecommerce-teams</loc>
+  <lastmod>2024-02-13T10:49:55+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://vercel.com/blog/effortless-high-availability-for-dynamic-frontends</loc>
+  <lastmod>2024-02-13T10:49:55+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://vercel.com/blog/how-streaming-helps-build-faster-web-applications</loc>
+  <lastmod>2024-02-13T10:49:55+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://vercel.com/blog/how-core-web-vitals-affect-seo</loc>
+  <lastmod>2024-02-13T10:49:55+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://vercel.com/customers/architecting-reliability-stripes-black-friday-site</loc>
+  <lastmod>2024-02-13T10:49:55+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://vercel.com/blog/common-mistakes-with-the-next-js-app-router-and-how-to-fix-them</loc>
+  <lastmod>2024-02-13T10:49:55+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://vercel.com/blog/the-developer-experience-of-the-frontend-cloud</loc>
+  <lastmod>2024-02-13T10:49:55+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://vercel.com/careers/account-executive-mid-market-east-us-5042166004</loc>
+  <lastmod>2024-02-13T10:49:55+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://vercel.com/careers/account-executive-mid-market-uk-and-i-uk-5051485004</loc>
+  <lastmod>2024-02-13T10:49:55+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://vercel.com/careers/account-executive-mid-market-west-us-5013226004</loc>
+  <lastmod>2024-02-13T10:49:55+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://vercel.com/careers/customer-marketing-manager-us-5030540004</loc>
+  <lastmod>2024-02-13T10:49:55+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://vercel.com/careers/customer-success-manager-west-us-5061713004</loc>
+  <lastmod>2024-02-13T10:49:55+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://vercel.com/careers/director-customer-success-us-west-us-4947552004</loc>
+  <lastmod>2024-02-13T10:49:55+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://vercel.com/careers/director-of-sales-uk-and-i-uk-5043352004</loc>
+  <lastmod>2024-02-13T10:49:55+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://vercel.com/careers/dx-engineer-us-5051577004</loc>
+  <lastmod>2024-02-13T10:49:55+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://vercel.com/careers/engineering-manager-edge-network-us-5045240004</loc>
+  <lastmod>2024-02-13T10:49:55+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://vercel.com/careers/enterprise-account-executive-east-us-5042179004</loc>
+  <lastmod>2024-02-13T10:49:55+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://vercel.com/careers/executive-assistant-5049532004</loc>
+  <lastmod>2024-02-13T10:49:55+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://vercel.com/careers/global-director-of-sales-development-us-5060895004</loc>
+  <lastmod>2024-02-13T10:49:55+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://vercel.com/careers/sales-development-manager-us-5051423004</loc>
+  <lastmod>2024-02-13T10:49:55+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://vercel.com/careers/sales-development-representative-uk-5065859004</loc>
+  <lastmod>2024-02-13T10:49:55+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://vercel.com/careers/sales-development-representative-us-5065840004</loc>
+  <lastmod>2024-02-13T10:49:55+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://vercel.com/careers/sales-development-representative-strategic-us-5039945004</loc>
+  <lastmod>2024-02-13T10:49:55+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://vercel.com/careers/sales-engineer-us-5041361004</loc>
+  <lastmod>2024-02-13T10:49:55+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://vercel.com/careers/sales-engineer-europe-uk-5031280004</loc>
+  <lastmod>2024-02-13T10:49:55+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://vercel.com/careers/senior-accounting-manager-us-5051420004</loc>
+  <lastmod>2024-02-13T10:49:55+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://vercel.com/careers/senior-customer-success-engineer-east-coast-us-5015138004</loc>
+  <lastmod>2024-02-13T10:49:55+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://vercel.com/careers/senior-customer-success-engineer-west-us-4934530004</loc>
+  <lastmod>2024-02-13T10:49:55+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://vercel.com/careers/senior-customer-success-manager-west-us-4968405004</loc>
+  <lastmod>2024-02-13T10:49:55+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://vercel.com/careers/senior-demand-generation-manager-us-5032772004</loc>
+  <lastmod>2024-02-13T10:49:55+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://vercel.com/careers/senior-developer-advocate-us-5022623004</loc>
+  <lastmod>2024-02-13T10:49:55+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://vercel.com/careers/senior-developer-advocate-ai-us-5022615004</loc>
+  <lastmod>2024-02-13T10:49:55+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://vercel.com/careers/senior-marketing-operations-manager-uk-us-5008659004</loc>
+  <lastmod>2024-02-13T10:49:55+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://vercel.com/careers/senior-product-manager-us-4547564004</loc>
+  <lastmod>2024-02-13T10:49:55+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://vercel.com/careers/software-engineer-billing-us-4834299004</loc>
+  <lastmod>2024-02-13T10:49:55+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://vercel.com/careers/software-engineer-cli-us-5030819004</loc>
+  <lastmod>2024-02-13T10:49:55+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://vercel.com/careers/software-engineer-compilers-us-5022612004</loc>
+  <lastmod>2024-02-13T10:49:55+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://vercel.com/careers/software-engineer-observability-us-5068121004</loc>
+  <lastmod>2024-02-13T10:49:55+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://vercel.com/careers/sr-onboarding-program-manager-us-5015492004</loc>
+  <lastmod>2024-02-13T10:49:55+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://vercel.com/careers/technical-consultant-europe-uk-4971614004</loc>
+  <lastmod>2024-02-13T10:49:55+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://vercel.com/careers/technical-product-marketing-manager-managed-infrastructure-us-4948243004</loc>
+  <lastmod>2024-02-13T10:49:55+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://vercel.com/legal/dpa</loc>
+  <lastmod>2024-02-13T10:49:55+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://vercel.com/docs/security/deployment-protection/methods-to-protect-deployments/vercel-authentication</loc>
+  <lastmod>2024-02-13T10:49:55+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://vercel.com/docs/security/deployment-protection/methods-to-bypass-deployment-protection/sharable-links</loc>
+  <lastmod>2024-02-13T10:49:55+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://vercel.com/docs/security/deployment-protection/methods-to-protect-deployments/password-protection</loc>
+  <lastmod>2024-02-13T10:49:55+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://vercel.com/docs/security/deployment-protection/methods-to-bypass-deployment-protection/protection-bypass-automation</loc>
+  <lastmod>2024-02-13T10:49:55+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://vercel.com/legal/cookie-policy</loc>
+  <lastmod>2024-02-13T10:49:55+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://vercel.com/customers/delivering-ai-analysis-faster-with-the-vercel-workflow</loc>
+  <lastmod>2024-02-13T10:49:55+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://vercel.com/templates/next.js/postgres-pgvector</loc>
+  <lastmod>2024-02-13T10:49:55+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://vercel.com/customers/nextjs-seo-playbook</loc>
+  <lastmod>2024-02-13T10:49:55+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+
+
+</urlset>
