@@ -28,7 +28,7 @@ const About = () => {
     >
       <SectionHeading>about me</SectionHeading>
       <p className="mb-3">
-      I'm an enthusiastic learner and a creator when it comes to anything related to technology. I
+      I'm an enthusiastic learner and a passionate creator when it comes to almost anything related to technology. I
         have spent the last{" "}
         <span className="font-medium">1.5 years at FirstNetSystems</span> to get
         hands-on experience in data science,{" "}
