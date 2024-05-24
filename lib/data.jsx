@@ -6,6 +6,8 @@ import InvitationImg from "@/public/InvitationIEEE.png";
 import CustomerAnalysisImg from "@/public/Customerana.png";
 import CovidAnalysisImg from "@/public/CovidAnalysis.png";
 import SwatValleyImg from "@/public/swatvalley.png";
+import taxicompanyImg from "@/public/taxicompany.png";
+import pricetrendsImg from "@/public/pricetrends.png";
 
 export const links = [
   {
@@ -54,6 +56,36 @@ export const experiencesData = [
 
 export const projectsData = [
   {
+    title: "Covid 19 Data Analysis",
+    description:
+      "A public web app for quick analytics on text. It shows word count, character count and social media post limits.",
+    tags: ["python", "pandas", "numpy", "seaborn", "matplotlib"],
+    imageUrl: CovidAnalysisImg,
+  },
+  {
+    title: "SmartMart Data Analysis Project",
+    description:
+      "In this project, I analyzed SmartMart's sales transactions data to identify areas for operational optimization and profitability improvement, using various statistical and data science techniques",
+    tags: ["python", "pandas", "numpy", "seaborn", "matplotlib"],
+    imageUrl: pricetrendsImg,
+  },
+  {
+    title: "Customer Analysis Tableau",
+    description:
+      "A public dashboard for quick analytics on text. It shows word count, character count and social media post limits.",
+    tags: ["python", "pandas", "numpy", "seaborn", "matplotlib", "Tableau"],
+    imageUrl: CustomerAnalysisImg,
+  },
+  {
+    title: "Chicago Taxi Trips Analysis",
+    description:
+      "In this project, I analyzed Chicago taxi trip data from January to July 2023, providing insights, forecasts, and regression analysis for the Office for National Statistics in Chicago",
+    tags: ["pandas", "numpy", "matplotlib", "seaborn", "scikit-learn", "statsmodels"],
+    imageUrl: taxicompanyImg,
+  },
+
+
+  {
     title: "Pricer",
     description:
       "I worked on this project  resembling a price sheet for each district that is handed by each Administrative office to the retailers",
@@ -67,20 +99,8 @@ export const projectsData = [
     tags: ["HTML", "CSS", "JavaScript"],
     imageUrl: InvitationImg,
   },
-  {
-    title: "Customer Analysis Tableau",
-    description:
-      "A public dashboard for quick analytics on text. It shows word count, character count and social media post limits.",
-    tags: ["python", "pandas", "numpy", "seaborn", "matplotlib", "Tableau"],
-    imageUrl: CustomerAnalysisImg,
-  },
-  {
-    title: "Covid 19 Data Analysis",
-    description:
-      "A public web app for quick analytics on text. It shows word count, character count and social media post limits.",
-    tags: ["python", "pandas", "numpy", "seaborn", "matplotlib"],
-    imageUrl: CovidAnalysisImg,
-  },
+  
+  
   {
     title: "Visit Swat Valley",
     description:
@@ -92,17 +112,6 @@ export const projectsData = [
 ];
 
 export const skillsData = [
-  "HTML",
-  "CSS",
-  "JavaScript",
-  "PHP",
-  "Wordpress",
-  "Tableau",
-  "PowerBI",
-  "Django",
-  "MYSQL",
-  "MongoDB",
-  "Express",
   "Python",
   "numpy",
   "pandas",
@@ -112,8 +121,19 @@ export const skillsData = [
   "tensorflow",
   "keras",
   "statsmodels",
-  "nltk",
   "scipy",
+  "Tableau",
+  "PowerBI",
+  "Django",
+  "MYSQL",
+  "MongoDB",
+  "HTML",
+  "CSS",
+  "JavaScript",
+  "PHP",
+  "Wordpress",
+  
+  
   "Git",
   "Github",
   "AnyDisk",
